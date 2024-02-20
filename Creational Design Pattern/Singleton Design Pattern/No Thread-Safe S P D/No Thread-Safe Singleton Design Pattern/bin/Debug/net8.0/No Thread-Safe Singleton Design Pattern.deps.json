@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "No Thread-Safe Singleton Design Pattern/1.0.0": {
+        "runtime": {
+          "No Thread-Safe Singleton Design Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "No Thread-Safe Singleton Design Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
