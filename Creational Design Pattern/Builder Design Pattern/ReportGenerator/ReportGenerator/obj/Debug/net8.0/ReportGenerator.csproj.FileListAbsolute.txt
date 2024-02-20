@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\bin\Debug\net8.0\ReportGenerator.exe
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\bin\Debug\net8.0\ReportGenerator.deps.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\bin\Debug\net8.0\ReportGenerator.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\bin\Debug\net8.0\ReportGenerator.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\bin\Debug\net8.0\ReportGenerator.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\obj\Debug\net8.0\ReportGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\obj\Debug\net8.0\ReportGenerator.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\obj\Debug\net8.0\ReportGenerator.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\obj\Debug\net8.0\ReportGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\obj\Debug\net8.0\ReportGenerator.sourcelink.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\obj\Debug\net8.0\ReportGenerator.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\obj\Debug\net8.0\refint\ReportGenerator.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\obj\Debug\net8.0\ReportGenerator.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\obj\Debug\net8.0\ReportGenerator.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\ReportGenerator\ReportGenerator\obj\Debug\net8.0\ref\ReportGenerator.dll

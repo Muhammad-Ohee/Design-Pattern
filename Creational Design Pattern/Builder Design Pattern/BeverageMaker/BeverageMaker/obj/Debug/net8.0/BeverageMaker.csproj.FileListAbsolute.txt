@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\bin\Debug\net8.0\BeverageMaker.exe
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\bin\Debug\net8.0\BeverageMaker.deps.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\bin\Debug\net8.0\BeverageMaker.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\bin\Debug\net8.0\BeverageMaker.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\bin\Debug\net8.0\BeverageMaker.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\obj\Debug\net8.0\BeverageMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\obj\Debug\net8.0\BeverageMaker.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\obj\Debug\net8.0\BeverageMaker.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\obj\Debug\net8.0\BeverageMaker.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\obj\Debug\net8.0\BeverageMaker.sourcelink.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\obj\Debug\net8.0\BeverageMaker.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\obj\Debug\net8.0\refint\BeverageMaker.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\obj\Debug\net8.0\BeverageMaker.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\obj\Debug\net8.0\BeverageMaker.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Builder Design pattern\BeverageMaker\BeverageMaker\obj\Debug\net8.0\ref\BeverageMaker.dll
