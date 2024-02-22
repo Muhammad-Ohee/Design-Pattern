@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\bin\Debug\net8.0\ShallowCopy.exe
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\bin\Debug\net8.0\ShallowCopy.deps.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\bin\Debug\net8.0\ShallowCopy.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\bin\Debug\net8.0\ShallowCopy.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\bin\Debug\net8.0\ShallowCopy.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\obj\Debug\net8.0\ShallowCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\obj\Debug\net8.0\ShallowCopy.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\obj\Debug\net8.0\ShallowCopy.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\obj\Debug\net8.0\ShallowCopy.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\obj\Debug\net8.0\ShallowCopy.sourcelink.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\obj\Debug\net8.0\ShallowCopy.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\obj\Debug\net8.0\refint\ShallowCopy.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\obj\Debug\net8.0\ShallowCopy.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\obj\Debug\net8.0\ShallowCopy.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\ShallowCopy\ShallowCopy\obj\Debug\net8.0\ref\ShallowCopy.dll

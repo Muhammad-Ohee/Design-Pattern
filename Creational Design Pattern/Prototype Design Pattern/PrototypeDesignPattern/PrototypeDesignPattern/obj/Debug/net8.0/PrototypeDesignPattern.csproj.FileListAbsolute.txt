@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.exe
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.deps.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.sourcelink.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\refint\PrototypeDesignPattern.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Prototype Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\ref\PrototypeDesignPattern.dll

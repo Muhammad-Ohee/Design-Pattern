@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\bin\Debug\net8.0\Factory Method DP.exe
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\bin\Debug\net8.0\Factory Method DP.deps.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\bin\Debug\net8.0\Factory Method DP.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\bin\Debug\net8.0\Factory Method DP.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\bin\Debug\net8.0\Factory Method DP.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\obj\Debug\net8.0\Factory Method DP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\obj\Debug\net8.0\Factory Method DP.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\obj\Debug\net8.0\Factory Method DP.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\obj\Debug\net8.0\Factory Method DP.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\obj\Debug\net8.0\Factory Method DP.sourcelink.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\obj\Debug\net8.0\Factory Method DP.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\obj\Debug\net8.0\refint\Factory Method DP.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\obj\Debug\net8.0\Factory Method DP.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\obj\Debug\net8.0\Factory Method DP.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\Factory Method DP\Factory Method DP\obj\Debug\net8.0\ref\Factory Method DP.dll

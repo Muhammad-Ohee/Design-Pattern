@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\bin\Debug\net8.0\SimpleFDP.exe
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\bin\Debug\net8.0\SimpleFDP.deps.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\bin\Debug\net8.0\SimpleFDP.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\bin\Debug\net8.0\SimpleFDP.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\bin\Debug\net8.0\SimpleFDP.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\obj\Debug\net8.0\SimpleFDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\obj\Debug\net8.0\SimpleFDP.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\obj\Debug\net8.0\SimpleFDP.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\obj\Debug\net8.0\SimpleFDP.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\obj\Debug\net8.0\SimpleFDP.sourcelink.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\obj\Debug\net8.0\SimpleFDP.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\obj\Debug\net8.0\refint\SimpleFDP.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\obj\Debug\net8.0\SimpleFDP.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\obj\Debug\net8.0\SimpleFDP.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\SimpleFDP\SimpleFDP\obj\Debug\net8.0\ref\SimpleFDP.dll
