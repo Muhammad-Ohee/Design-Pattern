@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\bin\Debug\net8.0\PaymentGatewayIntegration.exe
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\bin\Debug\net8.0\PaymentGatewayIntegration.deps.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\bin\Debug\net8.0\PaymentGatewayIntegration.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\bin\Debug\net8.0\PaymentGatewayIntegration.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\bin\Debug\net8.0\PaymentGatewayIntegration.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\obj\Debug\net8.0\PaymentGatewayIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\obj\Debug\net8.0\PaymentGatewayIntegration.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\obj\Debug\net8.0\PaymentGatewayIntegration.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\obj\Debug\net8.0\PaymentGatewayIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\obj\Debug\net8.0\PaymentGatewayIntegration.sourcelink.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\obj\Debug\net8.0\PaymentGatewayIntegration.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\obj\Debug\net8.0\refint\PaymentGatewayIntegration.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\obj\Debug\net8.0\PaymentGatewayIntegration.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\obj\Debug\net8.0\PaymentGatewayIntegration.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\PaymentGatewayIntegration\PaymentGatewayIntegration\obj\Debug\net8.0\ref\PaymentGatewayIntegration.dll

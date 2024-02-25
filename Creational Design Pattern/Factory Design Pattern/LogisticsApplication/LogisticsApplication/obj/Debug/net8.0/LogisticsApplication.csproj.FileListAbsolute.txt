@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\bin\Debug\net8.0\LogisticsApplication.exe
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\bin\Debug\net8.0\LogisticsApplication.deps.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\bin\Debug\net8.0\LogisticsApplication.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\bin\Debug\net8.0\LogisticsApplication.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\bin\Debug\net8.0\LogisticsApplication.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\obj\Debug\net8.0\LogisticsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\obj\Debug\net8.0\LogisticsApplication.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\obj\Debug\net8.0\LogisticsApplication.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\obj\Debug\net8.0\LogisticsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\obj\Debug\net8.0\LogisticsApplication.sourcelink.json
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\obj\Debug\net8.0\LogisticsApplication.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\obj\Debug\net8.0\refint\LogisticsApplication.dll
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\obj\Debug\net8.0\LogisticsApplication.pdb
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\obj\Debug\net8.0\LogisticsApplication.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Design-Pattern\Creational Design Pattern\Factory Design Pattern\LogisticsApplication\LogisticsApplication\obj\Debug\net8.0\ref\LogisticsApplication.dll
